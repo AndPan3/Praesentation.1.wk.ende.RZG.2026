@@ -1,0 +1,24 @@
+body{
+    background-color:#1a1a1a;
+    color:#e4f2e8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color:#e4f2e8;
+    text-decoration:none;
+    text-decoration:underline;
+    font-weight:bold;
+}
+li{
+    border-bottom: solid 7px #0c0c0c
+}
+.one{
+    margin-bottom:5%;
+    margin-top:10%;
+}
+.two h3{
+    font-size:smaller
+}
+.two{
+    margin-bottom:5%
+}
